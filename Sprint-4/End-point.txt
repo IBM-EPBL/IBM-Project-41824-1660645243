@@ -1,1 +1,0 @@
-https://us-south.ml.cloud.ibm.com/ml/v4/deployments/e3459c3a-afb2-42f4-bceb-e2722fb8e737/predictions?version=2022-11-17
